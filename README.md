@@ -1,2 +1,4 @@
-# -300-
-초보자를 위한 파이썬 300제.
+# Python 300 Quizzes
+Python 300 Quizzes.
+
+It reminds the Python grammar. 
